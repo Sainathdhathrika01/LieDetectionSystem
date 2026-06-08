@@ -1,4 +1,4 @@
-```txt id="cqfcvu"
+
 streamlit
 sounddevice
 wavio
@@ -14,5 +14,3 @@ numba
 pooch
 threadpoolctl
 pillow
-```
-pip install -r requirements.txt
